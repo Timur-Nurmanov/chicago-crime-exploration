@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exploration of Chicago crime dataset
 
 Exploration of dataset that contains the history of crime rate in Chicago, IL from 2001 to today.
@@ -15,3 +16,4 @@ Source: <https://www.kaggle.com/datasets/chicago/chicago-crime>
 -   Which community area has the highest crime rate?
 
 -   Is there are correlation between community area and police district?
+

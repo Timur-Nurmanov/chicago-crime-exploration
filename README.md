@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exploration of Chicago crime dataset
 
 Exploration of dataset that contains the history of crime rate in Chicago, IL from 2001 to today.
